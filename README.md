@@ -15,5 +15,5 @@
 - Git & GitHub
 
 📫 **Let's Connect**
-- LinkedIn:[www.linkedin.com/in/shreya-singh-sisodiya/]
+- LinkedIn: [www.linkedin.com/in/shreya-singh-sisodiya/]
 - Email: shreyasisodiya1997@gmail.com
