@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**Shreya-Sisodiya/Shreya-Sisodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student exploring Data Analytics, AI, and Machine Learning.
 
-Here are some ideas to get you started:
+📊 I enjoy learning by building projects, participating in hackathons, and exploring technologies that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I believe growth begins outside my comfort zone, so I'm always open to new challenges, experiences, and opportunities to learn.
+
+## Tech Stack
+- Python
+- SQL
+- Power BI
+- Excel
+- MySQL
+- Git & GitHub
+
+📫 **Let's Connect**
+- LinkedIn:[www.linkedin.com/in/shreya-singh-sisodiya/]
+- Email: shreyasisodiya1997@gmail.com
